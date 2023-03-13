@@ -1,0 +1,1 @@
+1. ascii.txt is the file used for the ascii art at the beginning of the game.
